@@ -1,1 +1,0 @@
-print('release V1.0')
